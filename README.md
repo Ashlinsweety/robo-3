@@ -1,5 +1,6 @@
 # EXP-3-Interfacing-And-Controlling-Digital-Output-With-Development-Board-And-Ultrasonic-Sensor
-
+NAME:R.ASHLIN SWEETY
+REG NO:212225040031
 ## Aim:
 
 To interface an HC-SR04 ultrasonic sensor with an Arduino Uno and control a digital output (LED) based on the measured distance of an object.
